@@ -2,15 +2,15 @@
 """
 # Author: Ayla Laone
 # Date: 02-27-2026
-# Description: Variables Make
+# Description: This program calculates the area and perimeter of a circle, # rectangle, and octagon.
 """
 
 #Input
 
-circle_radius = 'int(input("The radius of the circle:"))'
-rect_length = 'int(input("The length of the rectangle:"))'
-rect_width = 'int(input("The width of the rectangle:"))'
-octa_side = 'int(input("A side length of the octagon:"))'
+circle_radius = int(input("The radius of the circle:"))
+rect_length = int(input("The length of the rectangle:"))
+rect_width = int(input("The width of the rectangle:"))
+octa_side = int(input("A side length of the octagon:"))
 
 
 #Processing
